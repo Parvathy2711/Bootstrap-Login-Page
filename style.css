@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border;
+}
+.login{
+    background-image:url(https://www.shutterstock.com/image-photo/blue-pink-two-tone-color-260nw-1316465093.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;    
+}
+.row{
+    background-color: rgb(147, 147, 147);
+    border-radius: 30px;
+    box-shadow: 12px 12px 27px;
+    width: auto;
+    height: 34.2rem;
+}
+img{
+    width: 120%;
+    height: 34.2rem;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.login h1{
+    font-size: 4rem;
+    font-weight: 300;
+}
+.inp{
+    height: 50px;
+    width: 50%;
+    border: none;
+    outline: none;
+    border-radius: 60px;    
+}
