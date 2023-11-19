@@ -33,3 +33,19 @@ img{
     outline: none;
     border-radius: 60px;    
 }
+.fa-facebook:hover{
+    color: blue;
+    cursor: pointer;
+}
+.fa-twitter:hover{
+    color:cornflowerblue;
+    cursor: pointer;
+}
+.fa-instagram:hover{
+    color:deeppink;
+    cursor: pointer;
+}
+.fa-linkedin:hover{
+    color:mediumblue;
+    cursor: pointer;
+}
